@@ -1,5 +1,5 @@
 Hello from add-feature1 branch
 I love fish! (from branch main)
-Hello from add-feature1 branchewfwefeefewwefwfewfwffwe
+Line from user2
 Good morning! (from branch add-feature1)
 
